@@ -1,0 +1,58 @@
+{
+	"name": "Vegeta",
+	"author": "arun!#9144",
+	"version": "1.0.0",
+	"description": "Ultra Ego on Discord - if someone could find the original artist so I could credit them that'd be great :)",
+	"authors": [ 
+		{
+			"name": "arun!",
+			"id": "515269185786347550"
+		}
+	],
+	"background": {
+		"blur": "0",
+		"url": "https://cdn.discordapp.com/attachments/1069667216825520192/1073698047332192256/dragon-ball-super-vegeta-ultra-ego-10712.png",
+		"alpha": "0"
+	},
+	"theme_color_map": {
+		"KEYBOARD": ["#6c24c6", "#fd4df9"],
+		"BACKGROUND_PRIMARY": ["#320f2e", "#320f2e"],
+		"BACKGROUND_SECONDARY": ["#320f2e", "#320f2e"],
+		"BACKGROUND_SECONDARY_ALT": ["#000000", "#000000"],
+		"BACKGROUND_TERTIARY": ["#2f0f2c", "#2f0f2c"],
+		"BACKGROUND_ACCENT": ["#f7b1fa", "#f7b1fa"],
+		"BACKGROUND_FLOATING": ["#f7b1fa", "#f7b1fa"],
+		"BACKGROUND_NESTED_FLOATING": ["#8b4394", "#8b4394"],
+		"BACKGROUND_MOBILE_PRIMARY": ["#8b4394", "#8b4394"],
+		"BACKGROUND_MOBILE_SECONDARY": ["#8b4394", "#8b4394"],
+		"BACKGROUND_MODIFIER_ACCENT": ["#f7b1fa", "#f7b1fa"],
+		"BACKGROUND_MODIFIER_ACTIVE": ["#f7b1fa", "#f7b1fa"],
+		"BACKGROUND_MODIFIER_SELECTED": ["#8d4294", "#8d4294"],
+		"CHANNELS_DEFAULT": ["#ff96fa", "#ff96fa"],
+		"HEADER_PRIMARY": ["#864091", "#864091"],
+		"HEADER_SECONDARY": ["#864091", "#864091"],
+		"INTERACTIVE_ACTIVE": ["#fe4dfc", "#fe4dfc"],
+		"INTERACTIVE_MUTED": ["#fe4dfc", "#fe4dfc"],
+		"INTERACTIVE_NORMAL": ["#fe4dfc", "#fe4dfc"],
+		"TEXT_LINK": ["#6d26c2", "#6d26c2"],
+		"TEXT_MUTED": ["#6d26c2", "#6d26c2"],
+		"TEXT_NORMAL": ["#FFFFF0", "#FFFFF0"]
+	},
+	"colours": {
+		"PRIMARY_DARK": "#FFFFFF",
+		"PRIMARY_DARK_100": "#FFFFFF",
+		"PRIMARY_DARK_300": "#FFFFFF",
+		"PRIMARY_DARK_360": "#FFFFFF",
+		"PRIMARY_DARK_400": "#FFFFFF",
+		"PRIMARY_DARK_500": "#FFFFFF",
+		"PRIMARY_DARK_600": "#FFFFFF",
+		"PRIMARY_DARK_630": "#FFFFFF",
+		"PRIMARY_DARK_700": "#FFFFFF",
+		"PRIMARY_DARK_800": "#FFFFFF",
+		"BRAND_NEW": "#FFFFFF",
+		"WHITE": "#FFFFFF"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#320f2e"
+	}
+}
